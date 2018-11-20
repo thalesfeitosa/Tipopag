@@ -1,0 +1,2 @@
+# Tipopag
+Tipo de Páginas
