@@ -11,7 +11,7 @@ namespace Tipopag
 		{
 			InitializeComponent();
 
-			MainPage = new Tipopag.Pagina3();
+			MainPage = new Tipopag.Carousel.IntroApp();
 		}
 
 		protected override void OnStart ()

@@ -21,7 +21,12 @@ namespace Tipopag.UWP
         {
             this.InitializeComponent();
 
-            LoadApplication(new Tipopag.App());
+            NewMethod();
+        }
+
+        private void NewMethod()
+        {
+            LoadApplication(new Tipopag.Carousel.IntroApp());
         }
     }
 }

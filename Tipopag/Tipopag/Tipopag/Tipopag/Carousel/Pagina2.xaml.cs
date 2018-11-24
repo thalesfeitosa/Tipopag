@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace Tipopag
+namespace Tipopag.Tipopag.Carousel
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class Pagina1 : ContentPage
+	public partial class Pagina2 : ContentPage
 	{
-		public Pagina1 ()
+		public Pagina2 ()
 		{
 			InitializeComponent ();
 		}

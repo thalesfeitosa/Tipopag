@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Tipopag.Pagina2">
+             x:Class="Tipopag.Tipopag.Carousel.Pagina3">
     <ContentPage.Content>
-        <StackLayout BackgroundColor="DeepPink" VerticalOptions="CenterAndExpand" >
-            <Label Text="Pagina"
+        <StackLayout BackgroundColor="Black" VerticalOptions="CenterAndExpand" >
+            <Label Text="Botáo Play"
                 
                 HorizontalOptions="CenterAndExpand" />
-            <Image Source="Page.png"/>
+            <Button Image="play.png"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipopag.iOS", "Tipopag\Tipo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipopag.UWP", "Tipopag\Tipopag.UWP\Tipopag.UWP.csproj", "{395B0248-5CC7-4D2B-A2F8-4E9681339F48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipopag", "Tipopag\Tipopag\Tipopag.csproj", "{0D520724-D31A-4159-9596-7E122E881AE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tipopag", "Tipopag\Tipopag\Tipopag.csproj", "{0D520724-D31A-4159-9596-7E122E881AE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
